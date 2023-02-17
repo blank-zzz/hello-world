@@ -1,2 +1,2 @@
 # hello-world
-For Big Ideas class, just some simple code for Lab 6.
+For CMPINF 0010 (Big Ideas), some simple code for Lab 6.
